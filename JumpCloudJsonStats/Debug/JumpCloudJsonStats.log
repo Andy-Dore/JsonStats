@@ -1,0 +1,6 @@
+﻿  CJumpCloudJsonStats.cpp
+  JumpCloudJsonStats.cpp
+C:\Users\andyv\source\repos\JumpCloudJsonStats\JumpCloudJsonStats\JumpCloudJsonStats.cpp(17,2): error C2146: syntax error: missing ';' before identifier 'stats'
+C:\Users\andyv\source\repos\JumpCloudJsonStats\JumpCloudJsonStats\JumpCloudJsonStats.cpp(16,24): error C2065: 'j': undeclared identifier
+C:\Users\andyv\source\repos\JumpCloudJsonStats\JumpCloudJsonStats\JumpCloudJsonStats.cpp(18,1): error C2143: syntax error: missing ';' before '}'
+  Generating Code...
